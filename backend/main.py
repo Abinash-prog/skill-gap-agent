@@ -21,9 +21,8 @@ app.add_middleware(
     CORSMiddleware,
     allow_origins=[
         "http://localhost:5173",      # dev
-        "http://localhost:4173",      # preview
-        "https://*.vercel.app",       # production wildcard
-        "https://yourfrontend.vercel.app",  # replace with your actual vercel URL later
+        "http://localhost:4173",      # preview   
+        "https://skill-gap-agent.vercel.app",  # replace with your actual vercel URL later
     ],
     allow_credentials=True,
     allow_methods=["*"],
