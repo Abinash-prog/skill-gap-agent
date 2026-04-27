@@ -6,8 +6,8 @@ Upload a Job Description and your Resume. The AI extracts required skills, inter
 
 ## Live Links
 
-- **Frontend:** https://your-app.vercel.app
-- **Backend:** https://your-api.onrender.com
+- **Frontend:** https://skill-gap-agent.vercel.app
+- **Backend:** https://skill-gap-agent.onrender.com
 - **GitHub:** https://github.com/Abinash-prog/skill-gap-agent
 - **Demo Video:** your-demo-link-here
 
